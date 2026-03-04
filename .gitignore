@@ -1,0 +1,27 @@
+# Ignore caches and temporary files
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node modules (if applicable)
+node_modules/
+
+# VSCode settings and cache
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# build artifacts
+build/
+dist/
+
+# generic cache
+.cache/
